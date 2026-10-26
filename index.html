@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="/logitoEmpresa.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FocusUp · Técnicas de estudio para concentrarte mejor</title>
+  <meta name="description"
+    content="Pomodoro, Feynman, Cornell y mapas mentales en una sola herramienta gratuita y sin registro. Organiza tu tiempo, toma mejores apuntes y aprende más rápido." />
+  <meta name="theme-color" content="#0b1220" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="FocusUp · Estudia mejor, no más horas" />
+  <meta property="og:description"
+    content="Cuatro técnicas de estudio probadas en una sola app gratuita: Pomodoro, Feynman, Cornell y mapas mentales." />
+  <meta property="og:image" content="/logitoEmpresa.png" />
+  <meta name="twitter:card" content="summary" />
+
+  <!-- Tipografías: carga asíncrona para evitar CSS bloqueante de renderizado -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="style"
+    href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap" />
+  <link rel="stylesheet" media="print" onload="this.media='all'"
+    href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap" />
+  <noscript>
+    <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap" />
+  </noscript>
+
+  <!-- Datos estructurados FAQ (Schema.org) para buscadores y agentes de IA -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Qué es la técnica Pomodoro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es un método de gestión del tiempo que divide el estudio en bloques de 25 minutos de concentración total separados por descansos cortos de 5 minutos. Cada cuatro bloques se toma un descanso largo de 15 minutos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la mejor técnica de estudio para memorizar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende del material, pero la técnica Feynman es una de las más efectivas para comprender y memorizar: te obliga a explicar el tema con palabras simples, revelando los huecos en tu conocimiento."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué es el método Cornell?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es un sistema de apuntes que organiza la página en tres zonas: ideas principales, notas de clase y un resumen final. Es el método más usado en universidades y facilita repasar antes de los exámenes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona la técnica Feynman?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Consiste en explicar un concepto como si se lo contaras a un niño de 10 años. Donde te trabas o usas jerga técnica hay un hueco que debes repasar en tus apuntes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué son los mapas mentales y cuándo usarlos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Son diagramas visuales que conectan ideas alrededor de un tema central. Son ideales para resumir temas amplios, preparar exposiciones y repasar visualmente antes de un examen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿FocusUp es gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Todas las herramientas de FocusUp son completamente gratuitas y no requieren registro."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>

@@ -84,9 +84,9 @@ npm run preview   # servir el build localmente
 
 ## 🇬🇧 English
 
-### What is FocusUp?
+### What is Focus?
 
-Enfocate is a web app that brings the most effective study methods together in one place. Everything runs in your browser: **free, no sign-up and privacy-friendly** — your notes and sessions never leave your device.
+Focus is a web app that brings the most effective study methods together in one place. Everything runs in your browser: **free, no sign-up and privacy-friendly** — your notes and sessions never leave your device.
 
 ### Included techniques
 

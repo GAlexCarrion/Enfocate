@@ -21,9 +21,9 @@ Cuatro técnicas de estudio con respaldo científico en una sola app gratuita �
 
 ## 🇪🇸 Español
 
-### ¿Qué es FocusUp?
+### ¿Qué es Enfocate?
 
-FocusUp es una aplicación web que reúne los métodos de estudio más eficaces en un solo lugar. Todo corre en tu navegador: **gratis, sin registro y respetando tu privacidad** — tus notas y sesiones nunca salen de tu dispositivo.
+Enfocate es una aplicación web que reúne los métodos de estudio más eficaces en un solo lugar. Todo corre en tu navegador: **gratis, sin registro y respetando tu privacidad** — tus notas y sesiones nunca salen de tu dispositivo.
 
 ### Técnicas incluidas
 
@@ -72,8 +72,8 @@ src/
 ### Puesta en marcha
 
 ```bash
-git clone https://github.com/tu-usuario/focusup.git
-cd focusup
+git clone https://github.com/tu-usuario/enfocate.git
+cd enfocate
 npm install
 npm run dev       # desarrollo → http://localhost:5173
 npm run build     # producción → dist/
@@ -86,7 +86,7 @@ npm run preview   # servir el build localmente
 
 ### What is FocusUp?
 
-FocusUp is a web app that brings the most effective study methods together in one place. Everything runs in your browser: **free, no sign-up and privacy-friendly** — your notes and sessions never leave your device.
+Enfocate is a web app that brings the most effective study methods together in one place. Everything runs in your browser: **free, no sign-up and privacy-friendly** — your notes and sessions never leave your device.
 
 ### Included techniques
 
@@ -121,8 +121,8 @@ Architecture highlights:
 ### Getting started
 
 ```bash
-git clone https://github.com/tu-usuario/focusup.git
-cd focusup
+git clone https://github.com/tu-usuario/enfocate.git
+cd enfocate
 npm install
 npm run dev       # develop → http://localhost:5173
 npm run build     # production → dist/
@@ -133,14 +133,13 @@ npm run preview   # serve the build locally
 
 ## 👥 Créditos / Credits
 
-FocusUp empezó como proyecto universitario y sigue creciendo como proyecto abierto mantenido por **DracarySoft**.
+Enfocate empezó como proyecto universitario y sigue creciendo como proyecto abierto mantenido por los contribuidores.
 
 | Persona | Rol |
 |---|---|
-| Luis Castillo | Líder del proyecto · Desarrollo |
+| Alex Carrion | Líder del proyecto · Desarrollo |
 | Alisson Guapulema | Desarrollo · QA |
 | Andres Falcon | Desarrollo |
 | Cristopher Chasiloa | Desarrollo |
 | Jean Carlos Itaz | Desarrollo · Diseño |
 
-❤️ ¿Te sirvió? [Apoya el proyecto en Ko-fi](https://ko-fi.com/luiscr918)

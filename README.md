@@ -2,7 +2,7 @@
 
 <img src="src/assets/imgs/logoSinFondo.png" alt="FocusUp" width="120" />
 
-# FocusUp
+# Enfocate
 
 **Estudia mejor, no más horas.**
 

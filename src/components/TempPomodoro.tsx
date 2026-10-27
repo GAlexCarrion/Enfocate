@@ -11,7 +11,7 @@ const DURACION: Record<Modo, number> = {
   descansoLargo: 15 * 60,
 };
 
-const STATS_KEY = "focusup:sessions";
+const STATS_KEY = "Enfocate:sessions";
 
 interface Stats {
   total: number;
@@ -127,10 +127,10 @@ export function TempPomodoro({ tarea, cambiarTarea }: Props) {
     if (estado === "activo") {
       document.title = `${formatear(restante)} · ${tarea}`;
     } else {
-      document.title = "FocusUp · Técnicas de estudio para concentrarte mejor";
+      document.title = "Enfocate · Técnicas de estudio para concentrarte mejor";
     }
     return () => {
-      document.title = "FocusUp · Técnicas de estudio para concentrarte mejor";
+      document.title = "Enfocate · Técnicas de estudio para concentrarte mejor";
     };
   }, [restante, estado, tarea]);
 

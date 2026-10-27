@@ -45,7 +45,7 @@ export function Navegacion() {
           <span
             className={`font-display text-xl font-extrabold tracking-tight ${noche ? "text-white" : "text-slate-900"}`}
           >
-            Focus<span className={noche ? "text-cyan-300" : "text-teal-600"}>Up</span>
+            Enfocate<span className={noche ? "text-cyan-300" : "text-teal-600"}></span>
           </span>
         </Link>
 
@@ -218,14 +218,6 @@ export function Navegacion() {
               </Link>
             </li>
             <li>
-              <a
-                href="https://ko-fi.com/luiscr918"
-                target="_blank"
-                rel="noopener noreferrer"
-                className={`${linkClases} block`}
-              >
-                {t.nav.apoya}
-              </a>
             </li>
           </ul>
         </div>

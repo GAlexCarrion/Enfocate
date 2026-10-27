@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://focusup.dracarysoft.com/sitemap.xml
+Sitemap: https://Enfocate.dracarysoft.com/sitemap.xml

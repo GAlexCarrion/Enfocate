@@ -3,7 +3,7 @@ import type { Dictionary } from "./es";
 export const en: Dictionary = {
   nav: {
     inicio: "Home",
-    queEs: "What is FocusUp?",
+    queEs: "What is Focus?",
     faq: "FAQ",
     tecnicas: "Techniques",
     apoya: "❤️ Support my work",
@@ -30,7 +30,7 @@ export const en: Dictionary = {
       titulo1: "Study better,",
       titulo2: "not longer.",
       subtitulo:
-        "FocusUp brings together the four most effective study techniques — Pomodoro, Feynman, Cornell and mind maps — in a single tool. Manage your time, take better notes and actually learn.",
+        "Focus brings together the four most effective study techniques — Pomodoro, Feynman, Cornell and mind maps — in a single tool. Manage your time, take better notes and actually learn.",
       ctaPrimario: "Start now",
       ctaSecundario: "Explore techniques",
     },
@@ -91,7 +91,7 @@ export const en: Dictionary = {
     },
     cta: {
       titulo: "Ready for your first session?",
-      subtitulo: "Open FocusUp, pick a technique and feel the difference in 25 minutes.",
+      subtitulo: "Open Enfocate, pick a technique and feel the difference in 25 minutes.",
       boton: "Start for free",
     },
     picker: {
@@ -101,7 +101,7 @@ export const en: Dictionary = {
     faq: {
       kicker: "FAQ",
       titulo: "Frequently asked questions",
-      subtitulo: "The essentials about study techniques and how to use FocusUp.",
+      subtitulo: "The essentials about study techniques and how to use Enfocate.",
       preguntas: [
         {
           p: "What is the Pomodoro technique?",
@@ -124,8 +124,8 @@ export const en: Dictionary = {
           r: "They're visual diagrams that connect ideas around a central topic. They're ideal for summarizing broad subjects, preparing presentations and reviewing visually before an exam.",
         },
         {
-          p: "Is FocusUp free?",
-          r: "Yes. All FocusUp tools are completely free and require no sign-up.",
+          p: "Is Focus free?",
+          r: "Yes. All Focus tools are completely free and require no sign-up.",
         },
       ],
     },
@@ -276,9 +276,9 @@ export const en: Dictionary = {
   },
   about: {
     kicker: "Our story",
-    titulo: "What is FocusUp?",
+    titulo: "What is Focus?",
     parrafo1:
-      "FocusUp is a free web tool that brings together four science-backed study techniques: Pomodoro, Feynman, the Cornell method and mind maps. Everything runs in your browser, with no accounts or installs.",
+      "Focus is a free web tool that brings together four science-backed study techniques: Pomodoro, Feynman, the Cornell method and mind maps. Everything runs in your browser, with no accounts or installs.",
     parrafo2:
       "It began as a university project and today keeps growing as an open project maintained by DracarySoft, with the same mission: studying better shouldn't depend on paying for a subscription.",
     stats: [
@@ -287,7 +287,7 @@ export const en: Dictionary = {
       { valor: "6", etiqueta: "focus playlists" },
       { valor: "$0", etiqueta: "now and forever" },
     ],
-    puedesTitulo: "What can you do with FocusUp?",
+    puedesTitulo: "What can you do with Focus?",
     puedes: [
       "Study in Pomodoro blocks with automatic cycles and breaks.",
       "Take Cornell notes and download print-ready PDFs.",
@@ -298,9 +298,9 @@ export const en: Dictionary = {
     ],
     equipoTitulo: "The people behind the project",
     equipoTexto:
-      "FocusUp started as a course project. This team built it, and it lives on thanks to those who keep maintaining it.",
+      "Enfocate started as a course project. This team built it, and it lives on thanks to those who keep maintaining it.",
     equipo: [
-      { nombre: "Luis Castillo", rol: "Project lead · Development" },
+      { nombre: "Alex Carrion", rol: "Project lead · Development" },
       { nombre: "Alisson Guapulema", rol: "Development · QA" },
       { nombre: "Andres Falcon", rol: "Development" },
       { nombre: "Cristopher Chasiloa", rol: "Development" },
@@ -313,7 +313,7 @@ export const en: Dictionary = {
     colTecnicas: "Techniques",
     colRecursos: "Resources",
     guias: "Study guides",
-    proyectoDe: "A DracarySoft project",
+    proyectoDe: "Alex Carrion",
     hechoCon: "Made with React, TypeScript and Tailwind CSS",
     koFi: "Support the project on Ko-fi",
   },

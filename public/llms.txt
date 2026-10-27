@@ -1,23 +1,23 @@
-# FocusUp
+# Enfocate
 
 > App web gratuita de técnicas de estudio: Pomodoro, Feynman, Cornell y mapas mentales en una sola herramienta, sin registro. Ayuda a estudiantes a organizar su tiempo, tomar mejores apuntes y aprender más rápido.
 
-FocusUp (https://focusup.dracarysoft.com) reúne las técnicas de estudio más respaldadas por la evidencia en una interfaz sencilla y bilingüe (español e inglés). Es gratuita, no requiere cuenta y funciona en celular y escritorio.
+Enfocate (https://Enfocate.dracarysoft.com) reúne las técnicas de estudio más respaldadas por la evidencia en una interfaz sencilla y bilingüe (español e inglés). Es gratuita, no requiere cuenta y funciona en celular y escritorio.
 
 ## Herramientas
 
-- [Pomodoro](https://focusup.dracarysoft.com/pomodoro): temporizador con bloques de 25 minutos de trabajo y descansos de 5, con estadísticas diarias guardadas localmente.
-- [Técnica Feynman](https://focusup.dracarysoft.com/feynman): grábate explicando un tema con palabras simples; donde te trabas hay un hueco de conocimiento que debes repasar.
-- [Método Cornell](https://focusup.dracarysoft.com/cornell): sistema de apuntes con ideas principales, notas de clase y resumen, exportable a PDF.
-- [Mapas mentales](https://focusup.dracarysoft.com/mapas-mentales): galería de plantillas editables en Canva para resumir temas visualmente.
-- [Playlists de estudio](https://focusup.dracarysoft.com/spotify): selección de música lofi y ambiental curada para concentrarse.
+- [Pomodoro](https://Enfocate.dracarysoft.com/pomodoro): temporizador con bloques de 25 minutos de trabajo y descansos de 5, con estadísticas diarias guardadas localmente.
+- [Técnica Feynman](https://Enfocate.dracarysoft.com/feynman): grábate explicando un tema con palabras simples; donde te trabas hay un hueco de conocimiento que debes repasar.
+- [Método Cornell](https://Enfocate.dracarysoft.com/cornell): sistema de apuntes con ideas principales, notas de clase y resumen, exportable a PDF.
+- [Mapas mentales](https://Enfocate.dracarysoft.com/mapas-mentales): galería de plantillas editables en Canva para resumir temas visualmente.
+- [Playlists de estudio](https://Enfocate.dracarysoft.com/spotify): selección de música lofi y ambiental curada para concentrarse.
 
 ## Guías paso a paso
 
-- [Guía Pomodoro](https://focusup.dracarysoft.com/guia/Pomodoro)
-- [Guía Feynman](https://focusup.dracarysoft.com/guia/Feynman)
-- [Guía Cornell](https://focusup.dracarysoft.com/guia/Cornell)
-- [Guía Mapas mentales](https://focusup.dracarysoft.com/guia/MapasMentales)
+- [Guía Pomodoro](https://Enfocate.dracarysoft.com/guia/Pomodoro)
+- [Guía Feynman](https://Enfocate.dracarysoft.com/guia/Feynman)
+- [Guía Cornell](https://Enfocate.dracarysoft.com/guia/Cornell)
+- [Guía Mapas mentales](https://Enfocate.dracarysoft.com/guia/MapasMentales)
 
 ## Preguntas frecuentes
 
@@ -26,4 +26,4 @@ FocusUp (https://focusup.dracarysoft.com) reúne las técnicas de estudio más r
 - ¿Qué es el método Cornell? Sistema de apuntes universitario que divide la página en ideas clave, notas y resumen.
 - ¿Cómo funciona la técnica Feynman? Explica el concepto como a un niño de 10 años; la jerga y los titubeos señalan qué repasar.
 - ¿Qué son los mapas mentales? Diagramas visuales que conectan ideas alrededor de un tema central; útiles para repasar antes de exámenes.
-- ¿FocusUp es gratis? Sí, todas las herramientas son gratuitas y no requieren registro.
+- ¿Enfocate es gratis? Sí, todas las herramientas son gratuitas y no requieren registro.

@@ -1,7 +1,7 @@
 export const es = {
   nav: {
     inicio: "Inicio",
-    queEs: "¿Qué es FocusUp?",
+    queEs: "¿Qué es Enfocate?",
     faq: "FAQ",
     tecnicas: "Técnicas",
     apoya: "❤️ Apoya mi trabajo",
@@ -28,7 +28,7 @@ export const es = {
       titulo1: "Estudia mejor,",
       titulo2: "no más horas.",
       subtitulo:
-        "FocusUp reúne las cuatro técnicas de estudio más eficaces — Pomodoro, Feynman, Cornell y mapas mentales — en una sola herramienta. Organiza tu tiempo, toma mejores apuntes y aprende de verdad.",
+        "Enfocate reúne las cuatro técnicas de estudio más eficaces — Pomodoro, Feynman, Cornell y mapas mentales — en una sola herramienta. Organiza tu tiempo, toma mejores apuntes y aprende de verdad.",
       ctaPrimario: "Empezar ahora",
       ctaSecundario: "Explorar técnicas",
     },
@@ -89,7 +89,7 @@ export const es = {
     },
     cta: {
       titulo: "¿Listo para tu primera sesión?",
-      subtitulo: "Abre FocusUp, elige una técnica y comprueba la diferencia en 25 minutos.",
+      subtitulo: "Abre Enfocate, elige una técnica y comprueba la diferencia en 25 minutos.",
       boton: "Empezar gratis",
     },
     picker: {
@@ -99,7 +99,7 @@ export const es = {
     faq: {
       kicker: "FAQ",
       titulo: "Preguntas frecuentes",
-      subtitulo: "Lo esencial sobre las técnicas de estudio y cómo usar FocusUp.",
+      subtitulo: "Lo esencial sobre las técnicas de estudio y cómo usar Enfocate.",
       preguntas: [
         {
           p: "¿Qué es la técnica Pomodoro?",
@@ -122,8 +122,8 @@ export const es = {
           r: "Son diagramas visuales que conectan ideas alrededor de un tema central. Son ideales para resumir temas amplios, preparar exposiciones y repasar visualmente antes de un examen.",
         },
         {
-          p: "¿FocusUp es gratis?",
-          r: "Sí. Todas las herramientas de FocusUp son completamente gratuitas y no requieren registro.",
+          p: "¿Enfocate es gratis?",
+          r: "Sí. Todas las herramientas de Enfocate son completamente gratuitas y no requieren registro.",
         },
       ],
     },
@@ -274,9 +274,9 @@ export const es = {
   },
   about: {
     kicker: "Nuestra historia",
-    titulo: "¿Qué es FocusUp?",
+    titulo: "¿Qué es Enfocate?",
     parrafo1:
-      "FocusUp es una herramienta web gratuita que reúne cuatro técnicas de estudio con respaldo científico: Pomodoro, Feynman, método Cornell y mapas mentales. Todo corre en tu navegador, sin cuentas ni instalaciones.",
+      "Enfocate es una herramienta web gratuita que reúne cuatro técnicas de estudio con respaldo científico: Pomodoro, Feynman, método Cornell y mapas mentales. Todo corre en tu navegador, sin cuentas ni instalaciones.",
     parrafo2:
       "Nació como proyecto universitario y hoy sigue creciendo como proyecto abierto mantenido por DracarySoft, con la misma misión: que estudiar mejor no dependa de pagar una suscripción.",
     stats: [
@@ -285,7 +285,7 @@ export const es = {
       { valor: "6", etiqueta: "playlists para concentrarse" },
       { valor: "$0", etiqueta: "ahora y siempre" },
     ],
-    puedesTitulo: "¿Qué puedes hacer con FocusUp?",
+    puedesTitulo: "¿Qué puedes hacer con Enfocate?",
     puedes: [
       "Estudiar en bloques Pomodoro con ciclos y descansos automáticos.",
       "Tomar apuntes Cornell y descargarlos en PDF listos para imprimir.",
@@ -296,7 +296,7 @@ export const es = {
     ],
     equipoTitulo: "Las personas detrás del proyecto",
     equipoTexto:
-      "FocusUp empezó siendo un proyecto de curso. Este equipo lo construyó, y sigue vivo gracias a quienes siguen manteniéndolo.",
+      "Enfocate empezó siendo un proyecto de curso. Este equipo lo construyó, y sigue vivo gracias a quienes siguen manteniéndolo.",
     equipo: [
       { nombre: "Luis Castillo", rol: "Líder del proyecto · Desarrollo" },
       { nombre: "Alisson Guapulema", rol: "Desarrollo · QA" },
@@ -311,7 +311,7 @@ export const es = {
     colTecnicas: "Técnicas",
     colRecursos: "Recursos",
     guias: "Guías de estudio",
-    proyectoDe: "Un proyecto de DracarySoft",
+    proyectoDe: "Alex Carrion",
     hechoCon: "Hecho con React, TypeScript y Tailwind CSS",
     koFi: "Apoya el proyecto en Ko-fi",
   },

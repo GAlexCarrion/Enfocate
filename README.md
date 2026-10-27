@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/assets/imgs/logoSinFondo.png" alt="FocusUp" width="120" />
+<img src="src/assets/imgs/logoSinFondo.png" alt="Enfocate" width="120" />
 
 # Enfocate
 

@@ -17,8 +17,8 @@ interface AppState {
 
 const AppContext = createContext<AppState | null>(null);
 
-const THEME_KEY = "focusup:theme";
-const LANG_KEY = "focusup:lang";
+const THEME_KEY = "Enfocate:theme";
+const LANG_KEY = "Enfocate:lang";
 
 function leerPreferencia<T extends string>(clave: string, valido: T[], porDefecto: T): T {
   try {

@@ -298,7 +298,7 @@ export const es = {
     equipoTexto:
       "Enfocate empezó siendo un proyecto de curso. Este equipo lo construyó, y sigue vivo gracias a quienes siguen manteniéndolo.",
     equipo: [
-      { nombre: "Luis Castillo", rol: "Líder del proyecto · Desarrollo" },
+      { nombre: "Alex Carrion", rol: "Líder del proyecto · Desarrollo" },
       { nombre: "Alisson Guapulema", rol: "Desarrollo · QA" },
       { nombre: "Andres Falcon", rol: "Desarrollo" },
       { nombre: "Cristopher Chasiloa", rol: "Desarrollo" },
@@ -313,7 +313,6 @@ export const es = {
     guias: "Guías de estudio",
     proyectoDe: "Alex Carrion",
     hechoCon: "Hecho con React, TypeScript y Tailwind CSS",
-    koFi: "Apoya el proyecto en Ko-fi",
   },
   notFound: {
     titulo: "Esta página salió a descansar",

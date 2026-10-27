@@ -315,7 +315,6 @@ export const en: Dictionary = {
     guias: "Study guides",
     proyectoDe: "Alex Carrion",
     hechoCon: "Made with React, TypeScript and Tailwind CSS",
-    koFi: "Support the project on Ko-fi",
   },
   notFound: {
     titulo: "This page went out for a break",

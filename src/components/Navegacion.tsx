@@ -124,11 +124,7 @@ export function Navegacion() {
               <FaSpotify className="text-xl" aria-hidden="true" />
             </Link>
           </li>
-          <li>
-            <a href="https://ko-fi.com/luiscr918" target="_blank" rel="noopener noreferrer" className={linkClases}>
-              {t.nav.apoya}
-            </a>
-          </li>
+          
         </ul>
 
         {/* Controles: idioma, tema y hamburguesa */}
